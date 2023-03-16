@@ -1,0 +1,37 @@
+.dropdown-menu li {
+    position: relative;
+}
+.dropdown-menu .submenu {
+    display: none;
+    position: absolute;
+    left: 100%;
+    top: -9px;
+}
+
+.dropdown-menu>li:hover>.submenu {
+    display: block;
+}
+
+.brand-logo {
+    padding: 30%;
+    }
+li {
+    padding: 10px;
+}
+
+.logo {
+    margin-right: 100px;
+}
+
+.badge {
+    text-align: center;
+    align-items: center;
+    color: black;
+    margin-right: 20px;
+}
+
+.badge:hover {
+    background-color:white;
+    transition: background-color .5s;
+    border-radius: 50%;
+}
