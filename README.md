@@ -4,9 +4,9 @@ Alumno: Julieta D'Angelo
 
 ## Tienda realizada en React: Tienda de Bebidas.
 
-Video de funcionalidad: https://youtu.be/
+Video de funcionalidad: https://youtu.be/4c6uI9r6SDU
 
-Página montada en Vercel: 
+Página montada en Vercel: https://tienda-de-bebidas.vercel.app/
 
 #### Instalar React y las siguientes dependencias:
 
